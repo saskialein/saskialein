@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Saskia
 
-<!--
-**saskialein/saskialein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have just graduated from a 15-weeks intensive Web Development bootcamp and are now looking for a role as a Full Stack Web Developer.
 
-Here are some ideas to get you started:
+## Here's a list of things I currently keep myself busy with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💼 Working on a plant care app
+* 🌱 Deepening my React, Redux and SASS skills
+* 🔈 Listening to a variety of inspiring tech podcasts
+
+## 💪 Tech Stack
+
+* 💻 HTML, CSS, JavaScript (Node, Express, Handlebars, React and Redux)
+* 🛢️ SQL Lite
+
+## 🔮 Tech I am planning to learn soon:
+* Angular
+* Next.js
+* GSAP Animations
+* GraphQL
+
+<p align=center>
+<b>📫 Reach out to me</b> <br>
+<a href="https://www.linkedin.com/in/saskia-leinberger/">LinkedIn</a> · <a href="mailto:saskia.leinberger@gmail.com">Email</a>
+</p>
