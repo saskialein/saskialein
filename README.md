@@ -12,10 +12,9 @@ I have just graduated from a 15-weeks intensive Web Development bootcamp and are
 
 * 💻  HTML, CSS/SCSS, JavaScript (Node, Express, Handlebars, React and Redux)
 * 🛢️  SQL Lite
-* :cloud: AWS 
+* :cloud: AWS, Heroku 
 
 ## 🔮 Tech I am planning to learn soon:
-* AWS
 * Angular
 * Next.js
 * GSAP Animations
