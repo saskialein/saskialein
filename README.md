@@ -5,7 +5,7 @@ I have just graduated from a 15-weeks intensive Web Development bootcamp and are
 ## Here's a list of things I currently keep myself busy with:
 
 * 💼  Practicing for my AWS Cloud Practitioner Exam
-* 🌱  Deepening my React, Redux and SCSS skills
+* 🌱  Deepening my React, Redux and CSS/SCSS skills
 * 🔈  Listening to a variety of inspiring tech podcasts
 
 ## 💪 Tech Stack
