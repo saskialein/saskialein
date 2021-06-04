@@ -1,16 +1,16 @@
 ### Hi there, I'm Saskia
 
-I have just graduated from a 15-weeks intensive Web Development bootcamp and are now looking for a role as a Full Stack Web Developer.
+I am a Frontend Engineer at [mevo](https://mevo.co.nz/).
 
 ## Here's a list of things I currently keep myself busy with:
 
 * 💼  Practicing for my AWS Cloud Practitioner Exam
-* 🌱  Deepening my React, Redux and CSS/SCSS skills
+* 🌱  Deepening my React and CSS/SCSS, Material UI skills
 * 🔈  Listening to a variety of inspiring tech podcasts
 
 ## 💪 Tech Stack
 
-* 💻  HTML, CSS/SCSS, JavaScript (Node, Express, Handlebars, React and Redux)
+* 💻  HTML, CSS/SCSS, JavaScript (Node, Express, Handlebars, React and Redux), Material UI
 * 🛢️  SQL Lite
 * :cloud: AWS, Heroku 
 
