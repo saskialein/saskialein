@@ -4,21 +4,19 @@ I am a Frontend Engineer at [mevo](https://mevo.co.nz/).
 
 ## Here's a list of things I currently keep myself busy with:
 
-* 💼  Practicing for my AWS Cloud Practitioner Exam
-* 🌱  Deepening my React and CSS/SCSS, Material UI skills
-* 🔈  Listening to a variety of inspiring tech podcasts
+* 🤖  Diving into the exciting world of AI
+* 🌱  Deepening my React skills, and learning Python
+* 📰  Reading a variety of inspiring tech newsletters
 
 ## 💪 Tech Stack
 
-* 💻  HTML, CSS/SCSS, JavaScript (Node, Express, Handlebars, React and Redux), Material UI
-* 🛢️  SQL Lite
-* :cloud: AWS, Heroku 
+* 💻  HTML, CSS/SCSS, JavaScript, TypeScript, Node, React, Vite, React Router, Tanstack Query, Material UI, Chakra UI
+* 🛢️  SQL Lite, Postgres
+* :cloud: A little bit of AWS 
 
 ## 🔮 Tech I am planning to learn soon:
-* Angular
 * Next.js
-* GSAP Animations
-* GraphQL
+* React Native
 * a whole lot more ...
 
 <p align=center>
