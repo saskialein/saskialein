@@ -10,9 +10,10 @@ I am a Frontend Engineer at [mevo](https://mevo.co.nz/).
 
 ## 💪 Tech Stack
 
-* 💻  HTML, CSS/SCSS, JavaScript, TypeScript, Node, React, Vite, React Router, Tanstack Query, Material UI, Chakra UI
+* 💻  HTML, CSS/SCSS, JavaScript, TypeScript, Node, React, Vite, React Router, Tanstack Query, Material UI, Chakra UI, Cypress Testing
 * 🛢️  SQL Lite, Postgres
-* :cloud: A little bit of AWS 
+* :cloud: A little bit of AWS
+* ⚙️ Python, Ruby on Rails basics
 
 ## 🔮 Tech I am planning to learn soon:
 * Next.js
