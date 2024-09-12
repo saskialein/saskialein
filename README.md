@@ -14,6 +14,7 @@ I am a Frontend Engineer at [mevo](https://mevo.co.nz/).
 * 🛢️  SQL Lite, Postgres
 * :cloud: A little bit of AWS
 * ⚙️ Python, Ruby on Rails basics
+* 🤖 LangChain, RAG apps
 
 ## 🔮 Tech I am currently improving:
 * Next.js
