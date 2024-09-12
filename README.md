@@ -24,5 +24,5 @@ I am a Frontend Engineer at [mevo](https://mevo.co.nz/).
 
 <p align=center>
 <b>📫 Reach out to me</b> <br>
-<a href="https://www.saskia.dev">saskia.dev</a> · <a href="https://www.linkedin.com/in/saskia-leinberger/">LinkedIn</a> · <a href="mailto:hello@saskia.dev">Email</a>
+<a href="https://saskia.dev/">saskia.dev</a> · <a href="https://www.linkedin.com/in/saskia-leinberger/">LinkedIn</a> · <a href="mailto:hello@saskia.dev">Email</a>
 </p>
