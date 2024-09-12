@@ -10,17 +10,18 @@ I am a Frontend Engineer at [mevo](https://mevo.co.nz/).
 
 ## 💪 Tech Stack
 
-* 💻  HTML, CSS/SCSS, JavaScript, TypeScript, Node, React, Vite, React Router, Tanstack Query, Material UI, Chakra UI, Cypress Testing
+* 💻  HTML, CSS/SCSS, JavaScript, TypeScript, Node, React, React Native, Next.js, Vite, React Router, Tanstack Query, Material UI, Chakra UI, Tailwind CSS, Cypress Testing
 * 🛢️  SQL Lite, Postgres
 * :cloud: A little bit of AWS
 * ⚙️ Python, Ruby on Rails basics
 
-## 🔮 Tech I am planning to learn soon:
+## 🔮 Tech I am currently improving:
 * Next.js
 * React Native
+* Django & Wagtail
 * a whole lot more ...
 
 <p align=center>
 <b>📫 Reach out to me</b> <br>
-<a href="https://www.linkedin.com/in/saskia-leinberger/">LinkedIn</a> · <a href="mailto:saskia.leinberger@gmail.com">Email</a>
+<a href="https://www.saskia.dev">saskia.dev</a> · <a href="https://www.linkedin.com/in/saskia-leinberger/">LinkedIn</a> · <a href="mailto:hello@saskia.dev">Email</a>
 </p>
