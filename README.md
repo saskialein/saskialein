@@ -1,11 +1,9 @@
 ### Hi there, I'm Saskia
 
-I am a Frontend Engineer at [mevo](https://mevo.co.nz/).
-
 ## Here's a list of things I currently keep myself busy with:
 
 * 🤖  Diving into the exciting world of AI
-* 🌱  Deepening my React skills, and learning Python
+* 🌱  Deepening my React skills, and learning Python/Django/Wagtail as I upgrade my partner's business-class table tennis website
 * 📰  Reading a variety of inspiring tech newsletters
 
 ## 💪 Tech Stack
