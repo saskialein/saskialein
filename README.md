@@ -14,7 +14,7 @@
 * ⚙️ Python, Ruby on Rails basics
 * 🤖 LangChain, RAG apps
 
-## 🔮 Tech I am currently improving:
+## 🔮 Tech I am currently learning or improving:
 * Next.js
 * React Native
 * Django & Wagtail
