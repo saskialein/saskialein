@@ -1,4 +1,6 @@
-### Hi there, I'm Saskia
+### Hi there, I'm Saskia 👋
+
+I'm a passionate Web Developer with 3.5 years of work experience specializing in frontend development. I'm currently expanding my skills into backend technologies to become a Full Stack Developer. I love building intuitive and dynamic web applications that provide great user experiences.
 
 ## Here's a list of things I currently keep myself busy with:
 
